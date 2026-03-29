@@ -26,4 +26,7 @@ El proyecto sigue una estructura modular dividida en tres clases principales:
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/danielduarte-gitt/Tree-Stock-Inventario.git](https://github.com/danielduarte-gitt/Tree-Stock-Inventario.git)
-   ![alt text](Screenshot_7.png) ![alt text](Screenshot_8.png) ![alt text](Screenshot_9.png)
+   
+![Menu](./menu.png)
+![Inventario](./inventario.png)
+![Busqueda](./busqueda.png)
