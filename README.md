@@ -16,6 +16,11 @@ El programa se divide en tres partes para mantener el código organizado:
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/danielduarte-gitt/Tree-Stock-Inventario.git](https://github.com/danielduarte-gitt/Tree-Stock-Inventario.git)
+
+   ## 🎥 Sustentación del Video
+En este video explico cómo funcionan los punteros en el árbol y por qué usamos recursividad para que el sistema sea eficiente:
+
+👉 [Ver video de sustentación aquí](https://drive.google.com/file/d/10HDZATkfOXxmG5sMw0UdBHti1J4i1mpM/view?usp=drive_link)
    
 ![Menu](./menu.png)
 ![Inventario](./inventario.png)
